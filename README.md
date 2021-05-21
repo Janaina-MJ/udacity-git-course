@@ -1,2 +1,1 @@
-# udacity-git-course
-Git and versioning
+# This is the repo for Udacity's Version Control with Git course.
